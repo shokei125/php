@@ -5,3 +5,6 @@ if (headers_sent()) {
 }
 
 リダイレクトのエラー処理の対応
+
+
+http://rewish.jp/blog/tech/php_www_url
